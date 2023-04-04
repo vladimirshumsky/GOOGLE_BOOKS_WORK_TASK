@@ -1,0 +1,24 @@
+.root {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  background-color: #ce8686;
+  margin-bottom: 20px;
+  height: 100%;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  background-color: #ce8686;
+  margin-bottom: 20px;
+  height: 100vh;
+}
+p {
+  color: white;
+  font-size: 20px;
+  padding: 0 0;
+  margin: 0 auto;
+}

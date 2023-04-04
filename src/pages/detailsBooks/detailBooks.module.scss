@@ -1,0 +1,31 @@
+.root {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+img {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+p {
+  padding: 10px 130px;
+}
+.img_wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+
+
+}
+.info_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px 20px;
+
+}
